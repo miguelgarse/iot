@@ -14,6 +14,12 @@ Proyecto realizado por Miguel García Serrano bajo la supervision de Bernardo Ta
 * [Front-end-angular](https://github.com/miguelgarse/iot-angular)
 * [Back-end-spring](https://github.com/miguelgarse/iot-spring)
 
+## Estado del código
+Proyecto  | Sonarcloud
+-- | --
+Front-end-angular | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=miguelgarse_iot-angular&metric=alert_status)](https://sonarcloud.io/dashboard?id=miguelgarse_iot-angular)
+Back-end-spring | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=miguelgarse_iot-spring&metric=alert_status)](https://sonarcloud.io/dashboard?id=miguelgarse_iot-spring)
+
 ## :gear: Instalación del proyecto
 1. Clonar repositorios, **mediante consola**:
 * iot-angular
